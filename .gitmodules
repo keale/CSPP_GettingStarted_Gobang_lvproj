@@ -1,0 +1,9 @@
+[submodule "Packages/CSPP_Core"]
+	path = Packages/CSPP_Core
+	url = https://github.com/HB-GSI/CSPP_Core
+[submodule "Packages/CSPP_DeviceBase"]
+	path = Packages/CSPP_DeviceBase
+	url = https://github.com/HB-GSI/CSPP_DeviceBase
+[submodule "Packages/CSPP_Examples"]
+	path = Packages/CSPP_Examples
+	url = https://github.com/HB-GSI/CSPP_Examples
