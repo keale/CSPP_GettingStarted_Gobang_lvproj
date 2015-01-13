@@ -7,3 +7,6 @@
 [submodule "Packages/CSPP_Examples"]
 	path = Packages/CSPP_Examples
 	url = https://github.com/HB-GSI/CSPP_Examples
+[submodule "Packages/CSPP_GettingStarted_Gobang"]
+	path = Packages/CSPP_GettingStarted_Gobang
+	url = https://github.com/keale/CSPP_GettingStarted_Gobang
